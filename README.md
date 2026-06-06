@@ -84,7 +84,7 @@ Investigate short-duration invalid trips to identify potential operational issue
 
 ### Dashboard 1
 
-![Dashboard 1](Dashboard/Dashboard1.png)
+![Dashboard 1](Dashboard/Dashboard%201.png)
 
 ### Dashboard 2
 
