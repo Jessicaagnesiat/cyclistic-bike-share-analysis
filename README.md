@@ -4,7 +4,7 @@
 
 This project was completed as part of the Google Data Analytics Professional Certificate offered by Google through Coursera.
 
-The objective of this case study was to analyze how annual members and casual riders use Cyclistic bike-share services differently and provide data-driven recommendations to increase membership conversions.
+The objective of this case study was to analyze how annual members and casual riders use Cyclistic bike share services differently and provide data driven recommendations to increase membership conversions.
 
 ---
 
@@ -28,7 +28,7 @@ Cyclistic aims to maximize the number of annual memberships, which are considere
 The dataset required several preprocessing steps before analysis:
 * Standardized column names between the 2019 and 2020 datasets
 * Merged datasets into a unified structure
-* Created trip duration and day-of-week features
+* Created trip duration and day of week features
 * Removed 117 records with negative trip durations
 * Removed records with missing end station information
 * Removed 7,452 trips shorter than one minute where rides started and ended at the same station
@@ -62,13 +62,13 @@ The dataset required several preprocessing steps before analysis:
 * Most popular station: Streeter Dr & Grand Ave
 
 ### 5. Route Preferences
-* The most popular round-trip route was Lake Shore Dr & Monroe St
-* Casual riders showed a strong preference for leisure-oriented locations such as lakefront, aquarium, and park stations
+* The most popular round trip route was Lake Shore Dr & Monroe St
+* Casual riders showed a strong preference for leisure oriented locations such as lakefront, aquarium, and park stations
 ---
 
 ## Business Recommendations
-### Commuter-Focused Membership Campaigns
-Target office workers and students around high-demand commuter stations such as Canal St & Adams St.
+### Commuter Focused Membership Campaigns
+Target office workers and students around high demand commuter stations such as Canal St & Adams St.
 ### Leisure Membership Programs
 Develop recreational and tourism-focused promotions around popular casual rider locations.
 ### Conversion Incentives
@@ -91,14 +91,6 @@ Investigate short-duration invalid trips to identify potential operational issue
 ![Dashboard 2](Dashboard/Dashboard%202.png)
 
 ---
-
-## Tableau Dashboard
-
-Tableau Public Dashboard:
-[Insert Tableau Public Link Here]
-
----
-
 ## Project Structure
 
 ```text
