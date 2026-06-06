@@ -52,7 +52,7 @@ The dataset required several preprocessing steps before analysis:
 
 ### 3. Ride Duration
 * Members accumulated approximately 572 million ride minutes
-* Casual riders accumulated approximately 364 million ride minutes despite representing a much smaller portion of users
+* Despite representing only 8.6% of users, casual riders accumulated approximately 364 million ride minutes, highlighting significantly longer ride durations compared to members.
 * Casual riders generally take longer trips than members
 
 ### 4. Peak Usage Hours
@@ -85,11 +85,11 @@ Investigate short-duration invalid trips to identify potential operational issue
 
 ## Dashboard Preview
 
-### Dashboard 1
+### Customer Overview Dashboard
 
 ![Dashboard 1](Dashboard/Dashboard%201.png)
 
-### Dashboard 2
+### Ride Behavior Dashboard
 
 ![Dashboard 2](Dashboard/Dashboard%202.png)
 
