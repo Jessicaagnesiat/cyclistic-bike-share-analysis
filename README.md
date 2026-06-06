@@ -1,4 +1,7 @@
 # 🚲 Cyclistic Bike Share Analysis
+![Python](https://img.shields.io/badge/Python-Pandas-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics%20Capstone-green)
 
 ## Google Data Analytics Capstone Project
 
