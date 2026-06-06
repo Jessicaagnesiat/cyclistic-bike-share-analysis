@@ -26,6 +26,19 @@ Cyclistic aims to maximize the number of annual memberships, which are considere
 
 ---
 
+## Dataset
+
+This project uses a subset of the Cyclistic (Divvy Bike Share) historical trip dataset.
+To keep the project scope manageable while maintaining meaningful insights, only Q1 2019 and Q1 2020 data were selected for analysis.
+
+📂 Dataset:
+https://drive.google.com/drive/folders/1g7Hx7MNG2PVJTKi13yv85pRvomC1VYFI?usp=sharing
+
+📊 Original Data Source:
+https://divvy-tripdata.s3.amazonaws.com/index.html
+
+---
+
 ## Data Cleaning Process
 
 The dataset required several preprocessing steps before analysis:
